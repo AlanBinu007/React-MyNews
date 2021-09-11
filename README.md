@@ -16,7 +16,7 @@ Built with [React](https://reactjs.org/) as frontend JavaScript framework.
 ### Clone Project
 
 ```sh
-git clone https://github.com/taiyeoguns/news-app-react.git news-app-react
+git clone https://github.com/AlanBinu007/React-MyNews
 ```
 
 ### Install dependencies
